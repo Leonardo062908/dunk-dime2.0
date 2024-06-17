@@ -1,6 +1,6 @@
 * {
-  margin: 0%;
-  padding: 0%;
+  margin: 0;
+  padding: 0;
 }
 
 .titulo-dunkdime {
@@ -19,4 +19,8 @@
 
 .terceira-linhap {
   font-size: 200%;
+}
+
+body {
+  height: 100vh;
 }
