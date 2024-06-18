@@ -25,3 +25,13 @@ body {
   box-sizing: border-box;
   height: 100vh;
 }
+
+.container {
+  display: flex;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
